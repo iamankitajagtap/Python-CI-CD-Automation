@@ -11,7 +11,7 @@ pipeline {
         CRED_ID   = 'ec2-target-key'
         APP_DIR   = '/home/ec2-user/python-static-site'
         APP_PORT  = '5000'
-        REPO_URL  = 'https://github.com/iamankitajagtap/python-app-jenkins-pipeline.git'
+        REPO_URL  = 'https://github.com/iamankitajagtap/Python-CI-CD-Automation.git'
     }
 
     stages {
